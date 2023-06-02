@@ -35023,7 +35023,7 @@ Sc(){this.aJ(new A.Yk(this))},
 Fa(a,b,c){var s=null,r=c?s:b,q=c?A.T(51,255,255,255):B.h
 return new A.Cx(r,s,s,s,A.a7u(s,s,q,s,s,s,s,s,s,B.ET,B.t,s,s,s,s,new A.c3(A.a21(10),B.r),s,s,s,s),B.K,s,!1,s,A.a3b(a,B.IV),s)},
 P(a){var s=this,r=null,q=s.d,p=q>=10,o=p?B.Ca:B.C9,n=t.nA
-return new A.rw(new A.op(B.JU,B.t,!0,new A.H0(r,r,1/0,56),r),A.xy(r,A.ad9(A.b([A.xy(B.G,A.a3b(p?"Please Wait!":"Welcome!",B.Ix),r,new A.dS(o,r,r,B.h9,r,r,B.ax),125,r,r,500),B.tw,A.xy(B.G,A.a3b(""+q,B.Iy),r,B.uz,125,r,r,125),B.tw,A.a6X(A.b([s.Fa("+",s.gTZ(),p),B.EX,s.Fa("-",s.gSb(),s.d<=0)],n),B.ex,B.nP,B.fh)],n),B.nP),r,B.uA,r,r,r,r),r)}}
+return new A.rw(new A.op(B.JU,B.t,!0,new A.H0(r,r,1/0,56),r),A.xy(r,A.ad9(A.b([A.xy(B.G,A.a3b(p?"Please Wait!!!":"Welcome!!!",B.Ix),r,new A.dS(o,r,r,B.h9,r,r,B.ax),100,r,r,350),B.tw,A.xy(B.G,A.a3b(""+q,B.Iy),r,B.uz,125,r,r,125),B.tw,A.a6X(A.b([s.Fa("+",s.gTZ(),p),B.EX,s.Fa("-",s.gSb(),s.d<=0)],n),B.ex,B.nP,B.fh)],n),B.nP),r,B.uA,r,r,r,r),r)}}
 A.Yl.prototype={
 $0(){++this.a.d},
 $S:0}
@@ -58312,7 +58312,7 @@ B.x_=new A.x(4294967040)
 B.FE=new A.Vb(1,"double")
 B.Gg=new A.j(!0,B.w6,null,"monospace",null,null,48,B.it,null,null,null,null,null,null,null,null,null,B.FF,B.x_,B.FE,null,"fallback style; consider putting your text in a Material",null,null,null,null)
 B.Iz=new A.j(!0,null,null,null,null,null,null,B.aA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ix=new A.j(!0,null,null,null,null,null,75,B.aA,null,null,null,null,1,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Ix=new A.j(!0,null,null,null,null,null,50,B.aA,null,null,null,null,1,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Iy=new A.j(!0,null,null,null,null,null,100,B.aA,null,null,null,null,1,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.IV=new A.j(!0,B.t,null,null,null,null,100,B.aA,null,null,null,null,1,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.G7=new A.j(!0,B.u,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity displayLarge",null,null,null,null)
