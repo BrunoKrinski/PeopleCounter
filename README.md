@@ -1,6 +1,8 @@
 # People Counter
 
-A Flutter project to with a people counter.
+## A Flutter project to with a people counter.
+
+### [https://brunokrinski.github.io/PeopleCounter/#/](https://brunokrinski.github.io/PeopleCounter/#/)
 
 ![example1](images/1.png)
 
