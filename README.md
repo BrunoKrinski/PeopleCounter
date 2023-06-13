@@ -9,5 +9,3 @@
 ![example2](images/2.png)
 
 ![example3](images/3.png)
-
-
